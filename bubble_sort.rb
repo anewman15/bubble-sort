@@ -21,5 +21,3 @@ end
 arr = [12, 10, 9, 7, 6, 5, 4, 2]
 p bubble_sort(arr)
 p arr
-
-
