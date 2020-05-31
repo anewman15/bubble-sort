@@ -7,6 +7,7 @@ In this small project, we created two methods to sort an array in ascending orde
 
 ## Live Demo
 [Repl.it Demo Link](https://repl.it/@anewman15/Arafat-Abdullah-Bubble-Sort)
+Cick the "run" button
 
 ## Authors
 👤 **Abdullah Numan**
