@@ -2,8 +2,7 @@
 
 In this small project, we created two methods to sort an array in ascending order using the Bubble Sort algorithm
 
-# Bubble Sort Screenshot
-[screenshot](./image/bubble.png)
+![screenshot](./image/bubble.png)
 
 ## Built With
 - Ruby
