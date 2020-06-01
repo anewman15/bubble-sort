@@ -1,6 +1,6 @@
 # Bubble Sort using Ruby
 
-In this small project, we created two methods to sort an array in ascending order using the Bubble Sort algorithm
+In this small project, we created two methods to sort an array in ascending order using the Bubble Sort algorithm. The user can enter an array of numbers and the program will return a sorted array in ascending order. The user will also an array of strings and it will return the array sorted according to the increasing length of the strings.
 
 ![screenshot](./image/bubble.png)
 
