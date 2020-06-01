@@ -9,7 +9,7 @@ In this small project, we created two methods to sort an array in ascending orde
 
 ## Deployment
 
-This project can be deployed on any Ruby IDE by simply cloning or download the repository from github, which is available on this active [link](https://github.com/anewman15/bubble-sort)
+This project can be deployed on any Ruby IDE or code editor by simply cloning or download the repository from github, which is available on this active [link](https://github.com/anewman15/bubble-sort)
 
 - After cloning it.
 - Run the file by typing "ruby bubble_sort.rb" in your terminal and follows the pop up questions.
