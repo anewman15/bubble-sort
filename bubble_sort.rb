@@ -37,7 +37,24 @@ def bubble_sort_by(arr)
   sorted_arr
 end
 
-array_string = %w[]
-bubble_sort_by(array_string) do |left, right|
-  left.length - right.length
+numbers_array = []
+5.times do |i|
+  print "Please enter a random number, five in total: "
+  array_input = gets.chomp.to_i
+  numbers_array << array_input
 end
+puts "Your numbers are: #{numbers_array}"
+puts "Your sorted numbers are: #{bubble_sort(numbers_array)}\n\n"
+
+array_string = []
+5.times do |i|
+  print "Please enter a string, five in total: "
+  string_input = gets.chomp.to_s
+  array_string << string_input
+end
+
+string_value = bubble_sort_by(array_string) do |left, right|
+left.length - right.length
+end
+puts "Your strings are : #{array_string}"
+puts "Your sorted strings are: #{string_value}"
