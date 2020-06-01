@@ -2,8 +2,18 @@
 
 In this small project, we created two methods to sort an array in ascending order using the Bubble Sort algorithm
 
+# Bubble Sort Screenshot
+[screenshot](./image/bubble.png)
+
 ## Built With
 - Ruby
+
+## Deployment
+
+This project can be deployed on any Ruby IDE by simply cloning or download the repository from github, which is available on this active [link](https://github.com/anewman15/bubble-sort)
+
+- After cloning it.
+- Run the file by typing "ruby bubble_sort.rb" in your terminal and follows the pop up questions.
 
 ## Live Demo
 [Repl.it Demo Link](https://repl.it/@anewman15/Arafat-Abdullah-Bubble-Sort)
@@ -17,7 +27,7 @@ Cick the "run" button
 
 
 👤 **Arafat Akata**
-- Github: [haraphat01](https://github.com/haraphat01)
+- Github: [@haraphat01](https://github.com/haraphat01)
 - Twitter: [@haraphat01](https://twitter.com/haraphat01)
 - Linkedin: [arafat-akata](https://www.linkedin.com/in/arafat-akata/)
 
